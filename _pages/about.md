@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Sparse Identification of Nonlinear Dynamics"
+excerpt: "Paper by Brunton et al."
 author_profile: true
 redirect_from: 
   - /about/
