@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my awesome blogpost!!!
+Welcome to my blog. From time to time I give updates on the current state of the art in machine learning, and I specifically focus on the work by Steven Brunton and his colleagues on the SINDy project. You can find the blogposts under the 'blogpost' page. 
+
+Enjoy!
